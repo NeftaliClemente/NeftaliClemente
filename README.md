@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Mi nombre es Netgan Klem 👋
 
 <!--
 **NeftaliClemente/NeftaliClemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Perfil de Desarrollador Web Full Stack
 
-¡Hola! Soy un desarrollador web con 16 años de experiencia en la industria. He trabajado en una variedad de proyectos, desempeñando roles tanto en el front-end como en el back-end, lo que me califica como un desarrollador full stack.
+¡Hola! Soy un desarrollador full-stack hace 16 años desempeñando roles tanto en el front-end como en el back-end.
 
-## Experiencia y Habilidades
+### Experiencia y Habilidades
 
 ### Lenguajes y Tecnologías
 
